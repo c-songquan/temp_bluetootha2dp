@@ -361,3 +361,5 @@ This software is totally free, but you can make me happy by rewarding me with a 
 - [Buy me a coffee](https://www.buymeacoffee.com/philschatzh)
 - [Paypal me](https://paypal.me/pschatzmann?country.x=CH&locale.x=en_US)
 
+#   t e m p _ b l u e t o o t h a 2 d p  
+ 
